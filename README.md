@@ -2,8 +2,7 @@
 
 # Description
 
-This is a practical on SWITCH  managrment using CLI to experiment with password handling and securing network configurations.
-The main goal is it hide passwords in the switch so they are not visible in plain text
+The project demonstrates practical switch management using CLI, focusing on secure password handling and protecting network configurations. The main objective is to ensure that password are encrypted and not visible in plain text.
 
 # Tools Used
 - Cisco Switch
